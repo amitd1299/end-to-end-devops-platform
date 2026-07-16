@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: devops-platform
-        image: amitdorwekar/devops-platform:latest
+        image: amitdorwekar/devops-platform:1
         ports:
         - containerPort: 5000
         resources:
